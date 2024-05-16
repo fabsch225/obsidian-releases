@@ -11625,5 +11625,12 @@
         "author": "Akop Kesheshyan",
         "description": "Create a literature notes from a BibTeX entries.",
         "repo": "akopdev/obsidian-bibtex-manager"
+    },
+    {
+        "id": "nsd-js",
+	    "name": "Nassi-Shneiderman Diagram Compiler",
+        "author": "fabsch225",
+        "description": "generate Nassi-Shneiderman Diagrams from JavaScript codeblocks",
+        "repo": "fabsch225/Nassi-Shneiderman-Compiler/tree/obsidian-plugin"
     }
 ]
